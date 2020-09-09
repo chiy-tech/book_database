@@ -1,5 +1,5 @@
-Full name: Chi Yang
-SFU student #: 301298533
+    Full name:
+SFU student #:
 
 
 Compilation Instructions
